@@ -25,7 +25,7 @@ memory_calculator:
   memory_sizes:
     metaspace: 128m..
   memory_heuristics:
-    heap: 75
+    heap: 85
     metaspace: 10
     stack: 5
     native: 10
